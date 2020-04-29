@@ -1,0 +1,9 @@
+*font: Verdana 12
+*Label*font: Verdana 12 
+*background: Gray80
+*Entry*background: white
+*Text*background: white
+*foreground: black
+*Listbox*foreground: RoyalBlue
+*Menu*font: Verdana 10
+
